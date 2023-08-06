@@ -1,0 +1,8 @@
+2023-08-06 05:16:02.495478 - Initialized conversion of CBT567
+2023-08-06 05:16:02.534131 - Received CBT.V505.FILE567.PDS from FILE567.XMI 
+2023-08-06 05:16:02.536664 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE567.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:16:02.537661 - Found $DOC.txt (text/plain) in CBT.V505.FILE567.PDS, moved to PDS/$DOC
+2023-08-06 05:16:02.538726 - Found @FILE567.txt (text/plain) in CBT.V505.FILE567.PDS, moved to PDS/@FILE567
+2023-08-06 05:16:02.539709 - Found CSVLLIX2.txt (text/plain) in CBT.V505.FILE567.PDS, moved to PDS/CSVLLIX2
+2023-08-06 05:16:02.540750 - Found SMFLLA.txt (text/plain) in CBT.V505.FILE567.PDS, moved to PDS/SMFLLA
+2023-08-06 05:16:02.541751 - Found SMF41S.txt (text/plain) in CBT.V505.FILE567.PDS, moved to PDS/SMF41S
